@@ -43,7 +43,7 @@ button {
 }
 
 body {
-  background: url("/background-pattern-desktop.svg") no-repeat top / 100%,
+  background: url("background-pattern-desktop.svg") no-repeat top / 100%,
     hsl(275, 100%, 97%);
 
   height: 100vh;
